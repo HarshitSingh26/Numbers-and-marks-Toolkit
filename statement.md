@@ -1,7 +1,7 @@
 # Problem Statement
 
 ## Problem
-Students learning programming often solve number problems, list problems and marks calculations in separate small programs. There is no single simple tool where these basic algorithms can be tried in one place and checked.
+Students learning programming often solve number problems, list problems and marks calculations in separate small programs. There is no single simple tool where these basic algorithms can be tried in one place and checked. Teachers usually face issue related to formatting student data and a clean way to save marks. 
 
 ## Scope
 A console based Python program with three modules: number algorithms, list/array techniques, and a student marks manager. It only uses basic Python (functions, loops, conditionals, lists, tuples, sets, dictionaries). No database or GUI.
