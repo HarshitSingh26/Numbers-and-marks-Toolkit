@@ -7,7 +7,7 @@ Students learning programming often solve number problems, list problems and mar
 A console based Python program with three modules: number algorithms, list/array techniques, and a student marks manager. It only uses basic Python (functions, loops, conditionals, lists, tuples, sets, dictionaries). No database or GUI.
 
 ## Target Users
-First year students learning problem solving with Python, and teachers who want a quick marks and grade summary for a small class.
+beginners learning problem solving with Python, and teachers who want a quick marks and grade summary for a small class.
 
 ## High Level Features
 - Factorial, Fibonacci, reverse, base conversion, GCD, primes, prime factors, square root
